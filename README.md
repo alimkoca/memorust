@@ -1,5 +1,5 @@
 # memorust
-Simple and stupid flash card implementation in CLI
+Simple and stupid flash card implementation on CLI
 
 How to add a card:
 ```
