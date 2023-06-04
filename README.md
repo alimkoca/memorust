@@ -12,7 +12,7 @@ $ cargo -- add "Who is father of Turkey?" "Atatürk"
 
 Test your knowledge:
 ```
-$ # Running with using binary file, without cargo
+$ # Running with binary file, without cargo
 $ memorust test
 
 $ # Running with cargo
